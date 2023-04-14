@@ -4,7 +4,7 @@
 Im unten stehenden Code wurden 10 Städtenamen in einer Liste gespeichert.
 Die Liste temperatur speichert (der Einfachheit halber zufällig) die Temperatur der nächsten 14 Tage für alle 10 Städte.
 
-Beschreibe kurz die Datenstruktur, die in der Variable temperatur gespeichert wird.
+Beschreibe kurz die Datenstruktur, die in der Variable temperatur gespeichert wird, indem du sie einmal printest und dir die Ausgabe anschaust.
 """
 
 """
@@ -35,6 +35,17 @@ Implemtiere weitere sinnvolle Eigenschaften wie beispielsweise das Wetter inklus
 
 
 import random
-staedte = ["Wiesbaden", "Mainz", "Berlin", "Hamburg", "Koeln",
-           "Muenchen", "Dortmund", "Frankfurt am Main", "Leipzig", "Düsseldorf"]
+
+staedte = [
+    "Wiesbaden",
+    "Mainz",
+    "Berlin",
+    "Hamburg",
+    "Koeln",
+    "Muenchen",
+    "Dortmund",
+    "Frankfurt am Main",
+    "Leipzig",
+    "Düsseldorf",
+]
 temperatur = [[random.randint(-10, 25) for i in range(14)] for j in range(10)]
