@@ -1,9 +1,13 @@
 """
-1. Aufgabe
+Beschrifte die freien Stellen im dargestellten Diagramm, das den Ablauf einer allgemeinen Schleife visualisiert.
 
-Erkläre KURZ, welchen Zweck for-Schleifen haben und warum ihr Einsatz häufig sinnvoll ist.
+  - True
+  - False
+  - Bedingung
+  - Anweisungen innerhalb der Schleife
+  - Anweisungen außerhalb der Schleife
 
-Deine Antwort: 
+Erkläre anschließend den generellen Ablauf einer Schleife anhand des Diagramms.
 """
 
 """
