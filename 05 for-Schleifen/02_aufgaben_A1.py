@@ -22,6 +22,9 @@ Tipp 1:
 
 Tipp 2:
   Ist i gegeben, greifst du mit temperatur[i] auf das i-te Listenelement zu.
+
+Tipp 3:
+Orientiere dich beim print-Befehl an dem print-Befehl des anfänglichen Codes.
 """
 
 # Temperaturdaten
