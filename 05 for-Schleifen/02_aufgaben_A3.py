@@ -48,4 +48,13 @@ staedte = [
     "Leipzig",
     "Düsseldorf",
 ]
-temperatur = [[random.randint(-10, 25) for i in range(14)] for j in range(10)]
+ANZ_TAGE = 14
+
+temperatur = [[0 for i in range(ANZ_TAGE)] for j in range(len(staedte))]
+
+for i in range(len(staedte)):
+    temperatur[i][0] = random.randint(10, 20)
+    for j in range(1, ANZ_TAGE):
+        temperatur[i][j] = random.randint(
+            temperatur[i][j - 1] - 3, temperatur[i][j - 1] + 3
+        )
