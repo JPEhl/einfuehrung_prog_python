@@ -1,19 +1,17 @@
 """
-Beschrifte die freien Stellen im dargestellten Diagramm, das den Ablauf einer allgemeinen Schleife visualisiert.
+Beschrifte die freien Stellen im Diagramm, das den Ablauf einer allgemeinen Schleife visualisiert.
 
   - True
   - False
   - Bedingung
   - Anweisungen innerhalb der Schleife
   - Anweisungen außerhalb der Schleife
-
-Erkläre anschließend den generellen Ablauf einer Schleife anhand des Diagramms.
 """
 
 """
 2. Aufgabe
 
-Im unten stehenden Code findest du erneut den Code zur Erzeugung der Temperaturübersicht aus dem Eingangsbeispiel.
+Unten findest du erneut den Code zur Erzeugung der Temperaturübersicht aus dem Eingangsbeispiel.
 Implementiere den Code durch Verwendung einer for-Schleife so, dass er mit lediglich einem print-Befehl auskommt.
 Solltest du nicht weiterkommen, nutze die Tipps.
 

@@ -36,8 +36,9 @@ Tipp 2:
   Die Hilfsvariable speichert immer ab, welche maximale Temperatur bisher in der Schleife gefunden wurde.
 
 Tipp 3:
-  Die Hilfsvariable sollte bei der Deklaration einen sehr kleinen Wert haben, der auf jeden Fall überschritten wird.
-  Siehe auch hier: https://www.codingem.com/python-max-and-min-values-for-integers/
+   Die Hilfsvariable sollte bei der Deklaration einen sehr kleinen Wert haben, der auf jeden Fall überschritten wird.
+  Setze sie also z.B. auf -1000 oder mache es ganz ausgefuchst: 
+  https://www.codingem.com/python-max-and-min-values-for-integers/
 """
 
 # Temperaturdaten
